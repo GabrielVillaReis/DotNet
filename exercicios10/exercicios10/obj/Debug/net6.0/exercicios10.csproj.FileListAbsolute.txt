@@ -1,0 +1,15 @@
+D:\workspace\DotNet\exercicios10\exercicios10\bin\Debug\net6.0\exercicios10.exe
+D:\workspace\DotNet\exercicios10\exercicios10\bin\Debug\net6.0\exercicios10.deps.json
+D:\workspace\DotNet\exercicios10\exercicios10\bin\Debug\net6.0\exercicios10.runtimeconfig.json
+D:\workspace\DotNet\exercicios10\exercicios10\bin\Debug\net6.0\exercicios10.dll
+D:\workspace\DotNet\exercicios10\exercicios10\bin\Debug\net6.0\exercicios10.pdb
+D:\workspace\DotNet\exercicios10\exercicios10\obj\Debug\net6.0\exercicios10.csproj.AssemblyReference.cache
+D:\workspace\DotNet\exercicios10\exercicios10\obj\Debug\net6.0\exercicios10.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\DotNet\exercicios10\exercicios10\obj\Debug\net6.0\exercicios10.AssemblyInfoInputs.cache
+D:\workspace\DotNet\exercicios10\exercicios10\obj\Debug\net6.0\exercicios10.AssemblyInfo.cs
+D:\workspace\DotNet\exercicios10\exercicios10\obj\Debug\net6.0\exercicios10.csproj.CoreCompileInputs.cache
+D:\workspace\DotNet\exercicios10\exercicios10\obj\Debug\net6.0\exercicios10.dll
+D:\workspace\DotNet\exercicios10\exercicios10\obj\Debug\net6.0\refint\exercicios10.dll
+D:\workspace\DotNet\exercicios10\exercicios10\obj\Debug\net6.0\exercicios10.pdb
+D:\workspace\DotNet\exercicios10\exercicios10\obj\Debug\net6.0\exercicios10.genruntimeconfig.cache
+D:\workspace\DotNet\exercicios10\exercicios10\obj\Debug\net6.0\ref\exercicios10.dll

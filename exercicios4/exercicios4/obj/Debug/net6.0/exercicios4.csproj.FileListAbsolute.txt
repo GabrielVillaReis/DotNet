@@ -1,0 +1,15 @@
+D:\workspace\DotNet\exercicios4\exercicios4\bin\Debug\net6.0\exercicios4.exe
+D:\workspace\DotNet\exercicios4\exercicios4\bin\Debug\net6.0\exercicios4.deps.json
+D:\workspace\DotNet\exercicios4\exercicios4\bin\Debug\net6.0\exercicios4.runtimeconfig.json
+D:\workspace\DotNet\exercicios4\exercicios4\bin\Debug\net6.0\exercicios4.dll
+D:\workspace\DotNet\exercicios4\exercicios4\bin\Debug\net6.0\exercicios4.pdb
+D:\workspace\DotNet\exercicios4\exercicios4\obj\Debug\net6.0\exercicios4.csproj.AssemblyReference.cache
+D:\workspace\DotNet\exercicios4\exercicios4\obj\Debug\net6.0\exercicios4.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\DotNet\exercicios4\exercicios4\obj\Debug\net6.0\exercicios4.AssemblyInfoInputs.cache
+D:\workspace\DotNet\exercicios4\exercicios4\obj\Debug\net6.0\exercicios4.AssemblyInfo.cs
+D:\workspace\DotNet\exercicios4\exercicios4\obj\Debug\net6.0\exercicios4.csproj.CoreCompileInputs.cache
+D:\workspace\DotNet\exercicios4\exercicios4\obj\Debug\net6.0\exercicios4.dll
+D:\workspace\DotNet\exercicios4\exercicios4\obj\Debug\net6.0\refint\exercicios4.dll
+D:\workspace\DotNet\exercicios4\exercicios4\obj\Debug\net6.0\exercicios4.pdb
+D:\workspace\DotNet\exercicios4\exercicios4\obj\Debug\net6.0\exercicios4.genruntimeconfig.cache
+D:\workspace\DotNet\exercicios4\exercicios4\obj\Debug\net6.0\ref\exercicios4.dll
